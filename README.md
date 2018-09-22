@@ -8,7 +8,7 @@ All values and data are hardcoded for demonstration. They can be parametrized on
 
 * Need Python3 installed. You can verify the install by typing "python --version" in windows command prompt
 
-![alt text](https://raw.githubusercontent.com/nassiramalik/UnitestExample/master/images/pyinstall.jpg)
+![alt text](https://github.com/nassir-malik/UnitestExample/blob/master/images/pyinstall.jpg)
 
 * PyChram installed (Optional)
 
@@ -29,4 +29,4 @@ All values and data are hardcoded for demonstration. They can be parametrized on
 
 "python utest.py"
 
-![alt text](https://raw.githubusercontent.com/nassiramalik/UnitestExample/master/images/testresults.jpg)
+![alt text](https://github.com/nassir-malik/UnitestExample/blob/master/images/testresults.jpg)
