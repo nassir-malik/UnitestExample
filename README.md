@@ -1,10 +1,10 @@
-#Unitest Example
+# Unitest Example
 
 Test can be run using command line or using PyChram IDE. 
 
 All values and data are hardcoded for demonstration. They can be parametrized once integrated in to a framework.
 
-###Prerequisites
+### Prerequisites
 
 * Need Python3 installed. You can verify the install by typing "python --version" in windows command prompt
 
@@ -13,7 +13,7 @@ All values and data are hardcoded for demonstration. They can be parametrized on
 * PyChram installed (Optional)
 
 
-###Assumptions 
+### Assumptions 
 
 * Input text can be plan text or encoded (Base64, UFT-8).
 
